@@ -1,0 +1,12 @@
+{
+    "name": "node-red-config-home-automation",
+    "description": "Home automation configuration",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_HpProliant.json",
+            "credentialsFile": "flows_HpProliant_cred.json"
+        }
+    }
+}
